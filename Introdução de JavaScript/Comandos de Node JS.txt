@@ -1,0 +1,59 @@
+< **(Menor)**
+
+>  **(Maior)**
+
+= >  **Igual ou maior**
+
+> =  **igual ou menor**
+
+==   **Igual**
+
+! =    **Diferente**
+
+> 5<3 **(5 é menor que 2?)**
+false
+3>5 **(3 é maior que 5?)**
+false
+13 <=9 **( 13 é menor ou igual a 9?)**
+false
+12>= 9 **(12 é maior ou igual a 9?)**
+true
+2==2 **(2 é igual a 2?)**
+true
+3!=2 **( 3 é diferente de 2?)**
+true
+> 
+
+**Identidade**
+
+=== **Identico**
+
+== **Igual**
+
+**Logicos**
+
+Precendencia das variaveis logicos.
+
+! Negação (Não)
+
+&& Conjunção (e)
+
+ll Disjunção(ou)
+
+Ternario
+
+? ( Teste) : ( Ou )
+
+var media = 10
+
+media == 2? 'APROVADO' : 'REPROVADO’ ( **10 é igual a 2? Aprovado ou Reprovado? )**
+'Reprovado
+
+var x = 10
+
+> var res = x + 5 < 10? 5: 9 ( 10 + 5 {15} é menor que 10? Sim ou Não?
+x
+10
+res
+9
+>

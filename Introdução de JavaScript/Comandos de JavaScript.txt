@@ -1,0 +1,6 @@
+document.body.style.background = 'blue’  ← **Pintar fundo de tela**
+document.querySelector('img#hplogo').style.filter = 'greenscale(100%)’ ← **Pintar imagem**
+
+document.querySelector('img#hplogo').style.visibility = 'hidden’ ← **Sumir com a Imagem**
+
+document.querySelector('div.mag-meta').innerText = Pedro Baptista Campos ama intensionalmente Larissa Laurindo de Lima ← **mudar o texto que veio do site**
